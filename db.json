@@ -1,0 +1,69 @@
+{
+  "products": [
+    {
+      "id": "2cm9xb839",
+      "name": "CAFE 111111",
+      "price": "50000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2Fcoffee1.jpg?alt=media&token=296c55ea-0512-41d0-816e-35c26400b399",
+      "mota": "aaa",
+      "chitiet": "aaa"
+    },
+    {
+      "id": "2zr059ofw",
+      "name": "CAFE Cốt Dừa",
+      "price": "50000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2Fcoffee1.jpg?alt=media&token=33fa9e2c-1d1b-4500-bffc-80b74f0dc72f",
+      "mota": "aaaa",
+      "chitiet": "aaaaa"
+    },
+    {
+      "id": "dhfsr9jz7",
+      "name": "CAFE Phủ Tuyết",
+      "price": "50000",
+      "priceSale": "45000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2Fcoffee4.jpg?alt=media&token=9ca0b2d2-c7a2-4f33-833e-42783586929d",
+      "mota": "",
+      "chitiet": ""
+    },
+    {
+      "id": "mojca7ox1",
+      "name": "CAFE Cốt Dừa",
+      "price": "45000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2Fcoffee2.jpg?alt=media&token=96cf6259-f28e-4825-9d0a-7a932973dbc9",
+      "mota": "aaaaa",
+      "chitiet": "aaaaa"
+    },
+    {
+      "id": "81fq59jai",
+      "name": "CAFE Trứng",
+      "price": "45000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2Fcoffee1.jpg?alt=media&token=44e81d1f-f445-440b-9b5d-88ccaaa263e4",
+      "mota": "aaaaa",
+      "chitiet": "vbbbbbbbbb",
+      "desc": "",
+      "smallDes": "",
+      "bigDes": ""
+    },
+    {
+      "id": "fh5ca6ld9",
+      "name": "CAFE Phủ Tuyết",
+      "price": "50000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2Fcoffee2.jpg?alt=media&token=66add8bb-d0b4-4a37-8013-1500657ca887",
+      "mota": "bbbbb",
+      "chitiet": "bbb",
+      "smallDes": "",
+      "bigDes": ""
+    },
+    {
+      "id": "72ozzaykd",
+      "name": "CAFE Phủ Tuyết",
+      "price": "45000",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-image-160d8.appspot.com/o/images%2Fcoffee6.jpg?alt=media&token=36b4e9ac-5865-46fd-930c-3e9a54ba7fef",
+      "mota": "aaaaa",
+      "chitiet": "aaaa",
+      "desc": "",
+      "smallDes": "",
+      "bigDes": ""
+    }
+  ]
+}
